@@ -20,6 +20,7 @@ Billing:
        The total cost of the selected dishes is calculated, and the user can choose a payment method. The final bill and order confirmation are displayed to the user.
 File Handling: 
         The project uses file handling to store user details and the final bill in a text file (sidenilo.txt).
+
  
 Execution Flow:
 
